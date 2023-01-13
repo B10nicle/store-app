@@ -1,4 +1,4 @@
-## The Store
+## Store App
 
 Special thanks to Vladilen Minin for this awesome course! This was really fun to implement this store under your guidance.
 
