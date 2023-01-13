@@ -1,6 +1,6 @@
 ## The Store
 
-Special thanks to Vladilen Minin for this awesome course!
+Special thanks to Vladilen Minin for this awesome course! This was really fun to implement this store under your guidance.
 
 Link: https://www.youtube.com/watch?v=yCIti018Srw
 
